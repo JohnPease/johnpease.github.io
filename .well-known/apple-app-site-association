@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "T2U52F74YE.com.johnpease.Reservoir",
+        "paths": ["/oauth", "/oauth/*"]
+      }
+    ]
+  }
+}
