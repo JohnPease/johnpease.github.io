@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": "T2U52F74YE.com.johnpease.Reservoir",
+        "appID": "H7B8E54884.com.johnpease.Reservoir",
         "paths": ["/oauth", "/oauth/*"]
       }
     ]
